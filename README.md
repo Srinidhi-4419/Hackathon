@@ -38,6 +38,7 @@ Ensure you have the following installed:
      JWT_SECRET=your_secret_key
 
 NOTE: You have a uploads folder in your backend directory.
+
 5. *Start the server:*  
    sh
    npm start  
