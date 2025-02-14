@@ -36,7 +36,8 @@ Ensure you have the following installed:
      env
      MONGO_URI=your_mongodb_connection_string
      JWT_SECRET=your_secret_key
-       
+
+NOTE: You have a uploads folder in your backend directory.
 5. *Start the server:*  
    sh
    npm start  
